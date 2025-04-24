@@ -13,16 +13,12 @@ class Solution {
         
         //approch 1 using Hashset
 
-        HashSet <Integer> hs= new HashSet<>();//empty HashSet[]
-
-        for(int num : nums){ //tavers in array
-            if(hs.contains(num)){//if hashset ke andar element
-            return true; // present hai to true return karo 
-                        //initially hashset ke andr kohi element exist nhi kar raha hai 
-                        //jab element sara store ho jayaega trurn true qki hashset duplicate
-                        //element allow nhi karta element shuld be unique
-            }else{
-                hs.add(num); //hashset set mai element add karo [1,2,3,1]
+       HashSet<Integer> set = new HashSet<>();
+        for(Integer num : nums){
+            if(set.contains(num)){
+                return true;
+            } else{
+                set.add(num);
             }
         }
         return false;
