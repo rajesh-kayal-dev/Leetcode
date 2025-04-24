@@ -15,14 +15,14 @@ class Solution {
 
         HashSet <Integer> hs= new HashSet<>();//empty HashSet[]
 
-        for(int i = 0; i<nums.length;i++){ //tavers in array
-            if(hs.contains(nums[i])){//if hashset ke andar element
+        for(int num : nums){ //tavers in array
+            if(hs.contains(num)){//if hashset ke andar element
             return true; // present hai to true return karo 
                         //initially hashset ke andr kohi element exist nhi kar raha hai 
                         //jab element sara store ho jayaega trurn true qki hashset duplicate
                         //element allow nhi karta element shuld be unique
             }else{
-                hs.add(nums[i]); //hashset set mai element add karo [1,2,3,1]
+                hs.add(num); //hashset set mai element add karo [1,2,3,1]
             }
         }
         return false;
