@@ -7,10 +7,9 @@ public int[] twoSum(int[] nums, int target) {
             if(nums[i] + nums[j] == target) {
                 return new int[]{i, j};
             }
-        }
+        }//solve it
     }
     return new int[]{};
 }
 }
 
-//leetcode submit region end(Prohibit modification and deletion)
