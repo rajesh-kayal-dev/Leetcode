@@ -9,7 +9,7 @@ public int[] twoSum(int[] nums, int target) {
             }
         }
     }
-    return new int[]{}; // No solution found
+    return new int[]{};
 }
 }
 
