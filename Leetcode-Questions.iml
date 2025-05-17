@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/1-two-sum" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/1013-fibonacci-number" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/1205-defanging-an-ip-address" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/121-best-time-to-buy-and-sell-stock" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/189-rotate-array" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/1894-merge-strings-alternately" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/217-contains-duplicate" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/237-delete-node-in-a-linked-list" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/238-product-of-array-except-self" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/240-search-a-2d-matrix-ii" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/26-remove-duplicates-from-sorted-array" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/268-missing-number" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/283-move-zeroes" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/349-intersection-of-two-arrays" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/657-robot-return-to-origin" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/66-plus-one" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/73-set-matrix-zeroes" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/88-merge-sorted-array" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/891-score-after-flipping-matrix" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/gfg" isTestSource="false" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>
