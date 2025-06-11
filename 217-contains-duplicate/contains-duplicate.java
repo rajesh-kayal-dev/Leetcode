@@ -1,27 +1,21 @@
 class Solution {
+
     public boolean containsDuplicate(int[] nums) {
+
+        Set<Integer> entry = new HashSet<>();
+        //set is collection jo duplicate elements ko allow nahi karta.
         
-        //approch 1
-        /*Arrays.sort(nums);
-        for(int i =0;i<nums.length -1;i++){
-            if(nums[i] == nums[i+1] ){
-                return true;
+        for(int i = 0; i < nums.length; i++){
+            // Agar element pehle se set mein hai, to duplicate mila
+            if(entry.contains(nums[i])){
+                return true; 
+            } else {
+                // Naya element hai, to set mein add kar do
+                entry.add(nums[i]);
             }
         }
-        return false;
-        */
-        
-        //approch 1 using Hashset
 
-       HashSet<Integer> set = new HashSet<>();
-        for(Integer num : nums){
-            if(set.contains(num)){
-                return true;
-            } else{
-                set.add(num);
-            }
-        }
+        // Agar pura loop chal gaya aur duplicate nahi mila, to false return karo
         return false;
-
     }
 }
