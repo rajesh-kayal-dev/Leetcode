@@ -15,16 +15,13 @@ class Solution {
         // Agar num-1 set mein nahi hai to ye sequence ka start ho sakta hai
 
         if(!set.contains(num - 1)){
-            int currNum = num;
-            int currStreak = 1;
-
+            int length =0;
             // Jab tak agla number milta rahe, count badhao
-            while(set.contains(currNum + 1)){
-                currNum++;
-                currStreak++;
+            while(set.contains(num + length)){
+                length++;
             }
             
-                maxLen = Math.max(maxLen,currStreak);
+                maxLen = Math.max(maxLen,length);
             }
         }
         return maxLen;
