@@ -1,15 +1,14 @@
 class Solution {
     public boolean isValid(String s) {
-        Stack<Character> stack = new Stack<>();
+       Stack <Character> stack = new Stack<>();
 
-        for (char ch : s.toCharArray()) {
-            // Opening brackets ko push karo
-            if (ch == '(' || ch == '{' || ch == '[') {
+       for(char ch : s.toCharArray()){
+            //push opening brackets
+            if(ch == '(' || ch == '{' || ch == '['){
                 stack.push(ch);
             }
-            // Closing bracket ke liye check karo
-            else {
-                if (stack.isEmpty()) return false;
+            else{
+                if(stack.isEmpty()) return false;
 
                 char top = stack.pop();
 
@@ -19,9 +18,8 @@ class Solution {
                     return false;
                 }
             }
-        }
-
-        // Agar end mein stack empty hai to valid
-        return stack.isEmpty();
+       }
+       //if stack is empty at the end then valid
+       return stack.isEmpty(); //true
     }
 }
