@@ -6,8 +6,8 @@ class Solution {
 
         for(int i = 0; i < n;i++){
             while(!stack.isEmpty() && temp[i] > temp[stack.peek()]){
-                int removed = stack.pop();
-                ans[removed] = i - removed;//day diffrence
+                int index = stack.pop();
+                ans[index] = i - index;//day diffrence
             }
             stack.push(i);
         }
