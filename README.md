@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0133-clone-graph](https://github.com/rajesh-kayal-dev/Leetcode/tree/master/0133-clone-graph) |
 | [0200-number-of-islands](https://github.com/rajesh-kayal-dev/Leetcode/tree/master/0200-number-of-islands) |
 | [1036-rotting-oranges](https://github.com/rajesh-kayal-dev/Leetcode/tree/master/1036-rotting-oranges) |
 ## Matrix
@@ -19,9 +20,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0133-clone-graph](https://github.com/rajesh-kayal-dev/Leetcode/tree/master/0133-clone-graph) |
 | [0200-number-of-islands](https://github.com/rajesh-kayal-dev/Leetcode/tree/master/0200-number-of-islands) |
 ## Union Find
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/rajesh-kayal-dev/Leetcode/tree/master/0200-number-of-islands) |
+## Hash Table
+|  |
+| ------- |
+| [0133-clone-graph](https://github.com/rajesh-kayal-dev/Leetcode/tree/master/0133-clone-graph) |
+## Graph
+|  |
+| ------- |
+| [0133-clone-graph](https://github.com/rajesh-kayal-dev/Leetcode/tree/master/0133-clone-graph) |
 <!---LeetCode Topics End-->
