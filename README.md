@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/rajesh-kayal-dev/Leetcode/tree/master/0200-number-of-islands) |
 | [0212-word-search-ii](https://github.com/rajesh-kayal-dev/Leetcode/tree/master/0212-word-search-ii) |
 | [0695-max-area-of-island](https://github.com/rajesh-kayal-dev/Leetcode/tree/master/0695-max-area-of-island) |
+| [0747-min-cost-climbing-stairs](https://github.com/rajesh-kayal-dev/Leetcode/tree/master/0747-min-cost-climbing-stairs) |
 | [1036-rotting-oranges](https://github.com/rajesh-kayal-dev/Leetcode/tree/master/1036-rotting-oranges) |
 ## Breadth-First Search
 |  |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/rajesh-kayal-dev/Leetcode/tree/master/0070-climbing-stairs) |
+| [0747-min-cost-climbing-stairs](https://github.com/rajesh-kayal-dev/Leetcode/tree/master/0747-min-cost-climbing-stairs) |
 ## Memoization
 |  |
 | ------- |
