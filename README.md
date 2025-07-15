@@ -65,4 +65,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0212-word-search-ii](https://github.com/rajesh-kayal-dev/Leetcode/tree/master/0212-word-search-ii) |
+## Math
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/rajesh-kayal-dev/Leetcode/tree/master/0070-climbing-stairs) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/rajesh-kayal-dev/Leetcode/tree/master/0070-climbing-stairs) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/rajesh-kayal-dev/Leetcode/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
