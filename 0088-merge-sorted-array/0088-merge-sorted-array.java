@@ -11,10 +11,8 @@ class Solution {
 
         Arrays.sort(result);
 
-        for ( int i = 0;i< nums1.length;i++){
+        for ( int i = 0;i< result.length;i++){
             nums1[i]= result[i];
         }
-    System.out.println(Arrays.toString(result));
-
     }
 }
