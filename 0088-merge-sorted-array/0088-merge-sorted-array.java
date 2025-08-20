@@ -1,19 +1,20 @@
 class Solution {
     public void merge(int[] nums1, int m, int[] nums2, int n) {
-        int p1 = m - 1;
-        int p2 = n - 1;
+        int[] result = new int[m+n];
 
-        for (int i = nums1.length -1; i >= 0; i--){
-            int valueAtP1 = p1 >=0 ? nums1[p1] : Integer.MIN_VALUE;
-            int valueAtP2 = p2 >=0 ? nums2[p2] : Integer.MIN_VALUE;
-
-            if(valueAtP1 > valueAtP2){
-             nums1[i]= valueAtP1;
-             p1--;
-            }else{
-                nums1[i]= valueAtP2;
-                p2--;
-            }
+        for ( int i = 0;i< m;i++){
+            result[i] = nums1[i];
         }
+        for ( int i = 0;i< n;i++){
+            result[i+m] = nums2[i];
+        }
+
+        Arrays.sort(result);
+
+        for ( int i = 0;i< nums1.length;i++){
+            nums1[i]= result[i];
+        }
+    System.out.println(Arrays.toString(result));
+
     }
 }
