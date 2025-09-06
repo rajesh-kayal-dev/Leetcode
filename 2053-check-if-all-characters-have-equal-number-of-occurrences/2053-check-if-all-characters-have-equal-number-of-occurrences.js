@@ -10,17 +10,19 @@ var areOccurrencesEqual = function(s) {
         arr[idx] += 1;
     }
     
- 
+    let freq = 0;
 
-    let freq = new Set();
-    for (let i = 0; i < arr.length; i++) {
-        if (arr[i] > 0) {
-            freq.add(arr[i]);
+    for(let i = 0; i < arr.length;i++){
+        if(arr[i] > 0){
+            if(freq === 0){
+                freq = arr[i];
+            }else if (arr[i] !== freq){
+             return false;
         }
     }
+    }
 
-    // If all frequencies are same, set size = 1
-    return freq.size === 1;
+ return true;
 
 
 };
