@@ -1,15 +1,21 @@
 class Solution {
     public boolean isAnagram(String s, String t) {
+        // Step 1: If lengths differ, not an anagram
+        if (s.length() != t.length()) return false;
 
-        if(s.length() != t.length()) return false;
+        // Step 2: Count character frequencies
+        int[] count = new int[26]; // for lowercase letters only
 
-        char[] arr1 = s.toCharArray();
-        char[] arr2 = t.toCharArray();
+        for (int i = 0; i < s.length(); i++) {
+            count[s.charAt(i) - 'a']++;
+            count[t.charAt(i) - 'a']--;
+        }
 
-        Arrays.sort(arr1);
-        Arrays.sort(arr2);
+        // Step 3: Check if all counts are zero
+        for (int c : count) {
+            if (c != 0) return false;
+        }
 
-        return Arrays.equals(arr1, arr2);
-        
+        return true;
     }
 }
