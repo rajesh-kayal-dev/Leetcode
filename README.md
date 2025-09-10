@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/rajesh-kayal-dev/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0127-word-ladder](https://github.com/rajesh-kayal-dev/Leetcode/tree/master/0127-word-ladder) |
 | [0133-clone-graph](https://github.com/rajesh-kayal-dev/Leetcode/tree/master/0133-clone-graph) |
+| [0242-valid-anagram](https://github.com/rajesh-kayal-dev/Leetcode/tree/master/0242-valid-anagram) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/rajesh-kayal-dev/Leetcode/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 ## Graph
 |  |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/rajesh-kayal-dev/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0127-word-ladder](https://github.com/rajesh-kayal-dev/Leetcode/tree/master/0127-word-ladder) |
 | [0212-word-search-ii](https://github.com/rajesh-kayal-dev/Leetcode/tree/master/0212-word-search-ii) |
+| [0242-valid-anagram](https://github.com/rajesh-kayal-dev/Leetcode/tree/master/0242-valid-anagram) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/rajesh-kayal-dev/Leetcode/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 ## Backtracking
 |  |
@@ -103,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/rajesh-kayal-dev/Leetcode/tree/master/0088-merge-sorted-array) |
+| [0242-valid-anagram](https://github.com/rajesh-kayal-dev/Leetcode/tree/master/0242-valid-anagram) |
 ## Sliding Window
 |  |
 | ------- |
