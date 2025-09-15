@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0695-max-area-of-island](https://github.com/rajesh-kayal-dev/Leetcode/tree/master/0695-max-area-of-island) |
 | [0747-min-cost-climbing-stairs](https://github.com/rajesh-kayal-dev/Leetcode/tree/master/0747-min-cost-climbing-stairs) |
 | [1036-rotting-oranges](https://github.com/rajesh-kayal-dev/Leetcode/tree/master/1036-rotting-oranges) |
+| [1878-check-if-array-is-sorted-and-rotated](https://github.com/rajesh-kayal-dev/Leetcode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 ## Breadth-First Search
 |  |
 | ------- |
