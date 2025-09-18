@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/rajesh-kayal-dev/Leetcode/tree/master/0001-two-sum) |
+| [0014-longest-common-prefix](https://github.com/rajesh-kayal-dev/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0088-merge-sorted-array](https://github.com/rajesh-kayal-dev/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/rajesh-kayal-dev/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0130-surrounded-regions](https://github.com/rajesh-kayal-dev/Leetcode/tree/master/0130-surrounded-regions) |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/rajesh-kayal-dev/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0014-longest-common-prefix](https://github.com/rajesh-kayal-dev/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0127-word-ladder](https://github.com/rajesh-kayal-dev/Leetcode/tree/master/0127-word-ladder) |
 | [0179-largest-number](https://github.com/rajesh-kayal-dev/Leetcode/tree/master/0179-largest-number) |
 | [0212-word-search-ii](https://github.com/rajesh-kayal-dev/Leetcode/tree/master/0212-word-search-ii) |
@@ -83,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Trie
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/rajesh-kayal-dev/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0212-word-search-ii](https://github.com/rajesh-kayal-dev/Leetcode/tree/master/0212-word-search-ii) |
 ## Math
 |  |
