@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0179-largest-number](https://github.com/rajesh-kayal-dev/Leetcode/tree/master/0179-largest-number) |
 | [0212-word-search-ii](https://github.com/rajesh-kayal-dev/Leetcode/tree/master/0212-word-search-ii) |
 | [0242-valid-anagram](https://github.com/rajesh-kayal-dev/Leetcode/tree/master/0242-valid-anagram) |
+| [0961-long-pressed-name](https://github.com/rajesh-kayal-dev/Leetcode/tree/master/0961-long-pressed-name) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/rajesh-kayal-dev/Leetcode/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 ## Backtracking
 |  |
@@ -111,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/rajesh-kayal-dev/Leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0088-merge-sorted-array](https://github.com/rajesh-kayal-dev/Leetcode/tree/master/0088-merge-sorted-array) |
+| [0961-long-pressed-name](https://github.com/rajesh-kayal-dev/Leetcode/tree/master/0961-long-pressed-name) |
 ## Sorting
 |  |
 | ------- |
