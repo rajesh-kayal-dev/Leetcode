@@ -1,21 +1,25 @@
 class Solution {
     public boolean isLongPressedName(String s1, String s2) {
-        int i = 0, j = 0;
 
-        while (j < s2.length()) {
-            if (i < s1.length() && s1.charAt(i) == s2.charAt(j)) {
-                // characters match, move both
-                i++;
+        int i = 0, j=0;
+        while(i < s1.length() && j <s2.length()){
+            char ch1= s1.charAt(i);
+            char ch2= s2.charAt(j);
+            if(ch1 == ch2){
+                i++;j++;
+            }else if(i > 0 && ch2==s1.charAt(i-1)){
                 j++;
-            } else if (j > 0 && s2.charAt(j) == s2.charAt(j - 1)) {
-                // current char in s2 is long-pressed version of previous
-                j++;
-            } else {
+            }else{
                 return false;
             }
         }
 
-        // if we matched all chars in s1, it's valid
-        return i == s1.length();
+        if(i<s1.length()) return false;
+        
+        while(j<s2.length()){
+            if(s2.charAt(j) != s1.charAt(i-1)) return false;
+            j++;
+        }
+        return true;
     }
 }
