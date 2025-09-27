@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0747-min-cost-climbing-stairs](https://github.com/rajesh-kayal-dev/Leetcode/tree/master/0747-min-cost-climbing-stairs) |
 | [0948-sort-an-array](https://github.com/rajesh-kayal-dev/Leetcode/tree/master/0948-sort-an-array) |
 | [1036-rotting-oranges](https://github.com/rajesh-kayal-dev/Leetcode/tree/master/1036-rotting-oranges) |
+| [1677-matrix-diagonal-sum](https://github.com/rajesh-kayal-dev/Leetcode/tree/master/1677-matrix-diagonal-sum) |
 | [1791-richest-customer-wealth](https://github.com/rajesh-kayal-dev/Leetcode/tree/master/1791-richest-customer-wealth) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/rajesh-kayal-dev/Leetcode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 ## Breadth-First Search
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0212-word-search-ii](https://github.com/rajesh-kayal-dev/Leetcode/tree/master/0212-word-search-ii) |
 | [0695-max-area-of-island](https://github.com/rajesh-kayal-dev/Leetcode/tree/master/0695-max-area-of-island) |
 | [1036-rotting-oranges](https://github.com/rajesh-kayal-dev/Leetcode/tree/master/1036-rotting-oranges) |
+| [1677-matrix-diagonal-sum](https://github.com/rajesh-kayal-dev/Leetcode/tree/master/1677-matrix-diagonal-sum) |
 | [1791-richest-customer-wealth](https://github.com/rajesh-kayal-dev/Leetcode/tree/master/1791-richest-customer-wealth) |
 ## Depth-First Search
 |  |
