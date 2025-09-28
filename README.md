@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/rajesh-kayal-dev/Leetcode/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/rajesh-kayal-dev/Leetcode/tree/master/0014-longest-common-prefix) |
+| [0048-rotate-image](https://github.com/rajesh-kayal-dev/Leetcode/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/rajesh-kayal-dev/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0088-merge-sorted-array](https://github.com/rajesh-kayal-dev/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/rajesh-kayal-dev/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/rajesh-kayal-dev/Leetcode/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/rajesh-kayal-dev/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0130-surrounded-regions](https://github.com/rajesh-kayal-dev/Leetcode/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/rajesh-kayal-dev/Leetcode/tree/master/0200-number-of-islands) |
@@ -98,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/rajesh-kayal-dev/Leetcode/tree/master/0048-rotate-image) |
 | [0070-climbing-stairs](https://github.com/rajesh-kayal-dev/Leetcode/tree/master/0070-climbing-stairs) |
 | [1013-fibonacci-number](https://github.com/rajesh-kayal-dev/Leetcode/tree/master/1013-fibonacci-number) |
 ## Dynamic Programming
