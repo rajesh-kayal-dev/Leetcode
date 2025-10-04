@@ -101,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/rajesh-kayal-dev/Leetcode/tree/master/0048-rotate-image) |
+| [0069-sqrtx](https://github.com/rajesh-kayal-dev/Leetcode/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/rajesh-kayal-dev/Leetcode/tree/master/0070-climbing-stairs) |
 | [1013-fibonacci-number](https://github.com/rajesh-kayal-dev/Leetcode/tree/master/1013-fibonacci-number) |
 ## Dynamic Programming
@@ -177,4 +178,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/rajesh-kayal-dev/Leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
+## Binary Search
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/rajesh-kayal-dev/Leetcode/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
