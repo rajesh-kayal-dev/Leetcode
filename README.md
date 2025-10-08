@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/rajesh-kayal-dev/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0014-longest-common-prefix](https://github.com/rajesh-kayal-dev/Leetcode/tree/master/0014-longest-common-prefix) |
+| [0020-valid-parentheses](https://github.com/rajesh-kayal-dev/Leetcode/tree/master/0020-valid-parentheses) |
 | [0127-word-ladder](https://github.com/rajesh-kayal-dev/Leetcode/tree/master/0127-word-ladder) |
 | [0179-largest-number](https://github.com/rajesh-kayal-dev/Leetcode/tree/master/0179-largest-number) |
 | [0212-word-search-ii](https://github.com/rajesh-kayal-dev/Leetcode/tree/master/0212-word-search-ii) |
@@ -182,4 +183,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/rajesh-kayal-dev/Leetcode/tree/master/0069-sqrtx) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/rajesh-kayal-dev/Leetcode/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
