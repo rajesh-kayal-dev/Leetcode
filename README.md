@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/rajesh-kayal-dev/Leetcode/tree/master/0001-two-sum) |
+| [0011-container-with-most-water](https://github.com/rajesh-kayal-dev/Leetcode/tree/master/0011-container-with-most-water) |
 | [0014-longest-common-prefix](https://github.com/rajesh-kayal-dev/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0048-rotate-image](https://github.com/rajesh-kayal-dev/Leetcode/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/rajesh-kayal-dev/Leetcode/tree/master/0053-maximum-subarray) |
@@ -127,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/rajesh-kayal-dev/Leetcode/tree/master/0011-container-with-most-water) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/rajesh-kayal-dev/Leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0088-merge-sorted-array](https://github.com/rajesh-kayal-dev/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0961-long-pressed-name](https://github.com/rajesh-kayal-dev/Leetcode/tree/master/0961-long-pressed-name) |
@@ -161,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/rajesh-kayal-dev/Leetcode/tree/master/0011-container-with-most-water) |
 | [0179-largest-number](https://github.com/rajesh-kayal-dev/Leetcode/tree/master/0179-largest-number) |
 ## Heap (Priority Queue)
 |  |
