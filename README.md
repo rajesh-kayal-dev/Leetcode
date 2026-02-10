@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/rajesh-kayal-dev/Leetcode/tree/master/0200-number-of-islands) |
 | [0212-word-search-ii](https://github.com/rajesh-kayal-dev/Leetcode/tree/master/0212-word-search-ii) |
 | [0213-house-robber-ii](https://github.com/rajesh-kayal-dev/Leetcode/tree/master/0213-house-robber-ii) |
+| [0217-contains-duplicate](https://github.com/rajesh-kayal-dev/Leetcode/tree/master/0217-contains-duplicate) |
 | [0695-max-area-of-island](https://github.com/rajesh-kayal-dev/Leetcode/tree/master/0695-max-area-of-island) |
 | [0747-min-cost-climbing-stairs](https://github.com/rajesh-kayal-dev/Leetcode/tree/master/0747-min-cost-climbing-stairs) |
 | [0948-sort-an-array](https://github.com/rajesh-kayal-dev/Leetcode/tree/master/0948-sort-an-array) |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0127-word-ladder](https://github.com/rajesh-kayal-dev/Leetcode/tree/master/0127-word-ladder) |
 | [0133-clone-graph](https://github.com/rajesh-kayal-dev/Leetcode/tree/master/0133-clone-graph) |
 | [0169-majority-element](https://github.com/rajesh-kayal-dev/Leetcode/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/rajesh-kayal-dev/Leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/rajesh-kayal-dev/Leetcode/tree/master/0242-valid-anagram) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/rajesh-kayal-dev/Leetcode/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 ## Graph
@@ -131,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/rajesh-kayal-dev/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/rajesh-kayal-dev/Leetcode/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/rajesh-kayal-dev/Leetcode/tree/master/0179-largest-number) |
+| [0217-contains-duplicate](https://github.com/rajesh-kayal-dev/Leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/rajesh-kayal-dev/Leetcode/tree/master/0242-valid-anagram) |
 | [0948-sort-an-array](https://github.com/rajesh-kayal-dev/Leetcode/tree/master/0948-sort-an-array) |
 ## Sliding Window
