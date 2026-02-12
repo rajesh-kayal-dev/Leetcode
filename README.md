@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/rajesh-kayal-dev/Leetcode/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/rajesh-kayal-dev/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/rajesh-kayal-dev/Leetcode/tree/master/0283-move-zeroes) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/rajesh-kayal-dev/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0695-max-area-of-island](https://github.com/rajesh-kayal-dev/Leetcode/tree/master/0695-max-area-of-island) |
 | [0747-min-cost-climbing-stairs](https://github.com/rajesh-kayal-dev/Leetcode/tree/master/0747-min-cost-climbing-stairs) |
 | [0948-sort-an-array](https://github.com/rajesh-kayal-dev/Leetcode/tree/master/0948-sort-an-array) |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/rajesh-kayal-dev/Leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/rajesh-kayal-dev/Leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/rajesh-kayal-dev/Leetcode/tree/master/0242-valid-anagram) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/rajesh-kayal-dev/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/rajesh-kayal-dev/Leetcode/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 ## Graph
 |  |
@@ -139,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0019-remove-nth-node-from-end-of-list](https://github.com/rajesh-kayal-dev/Leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0088-merge-sorted-array](https://github.com/rajesh-kayal-dev/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0283-move-zeroes](https://github.com/rajesh-kayal-dev/Leetcode/tree/master/0283-move-zeroes) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/rajesh-kayal-dev/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0961-long-pressed-name](https://github.com/rajesh-kayal-dev/Leetcode/tree/master/0961-long-pressed-name) |
 ## Sorting
 |  |
@@ -148,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0179-largest-number](https://github.com/rajesh-kayal-dev/Leetcode/tree/master/0179-largest-number) |
 | [0217-contains-duplicate](https://github.com/rajesh-kayal-dev/Leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/rajesh-kayal-dev/Leetcode/tree/master/0242-valid-anagram) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/rajesh-kayal-dev/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0948-sort-an-array](https://github.com/rajesh-kayal-dev/Leetcode/tree/master/0948-sort-an-array) |
 ## Sliding Window
 |  |
@@ -202,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/rajesh-kayal-dev/Leetcode/tree/master/0069-sqrtx) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/rajesh-kayal-dev/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Stack
 |  |
 | ------- |
