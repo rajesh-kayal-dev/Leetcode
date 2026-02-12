@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0213-house-robber-ii](https://github.com/rajesh-kayal-dev/Leetcode/tree/master/0213-house-robber-ii) |
 | [0217-contains-duplicate](https://github.com/rajesh-kayal-dev/Leetcode/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/rajesh-kayal-dev/Leetcode/tree/master/0238-product-of-array-except-self) |
+| [0283-move-zeroes](https://github.com/rajesh-kayal-dev/Leetcode/tree/master/0283-move-zeroes) |
 | [0695-max-area-of-island](https://github.com/rajesh-kayal-dev/Leetcode/tree/master/0695-max-area-of-island) |
 | [0747-min-cost-climbing-stairs](https://github.com/rajesh-kayal-dev/Leetcode/tree/master/0747-min-cost-climbing-stairs) |
 | [0948-sort-an-array](https://github.com/rajesh-kayal-dev/Leetcode/tree/master/0948-sort-an-array) |
@@ -137,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/rajesh-kayal-dev/Leetcode/tree/master/0011-container-with-most-water) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/rajesh-kayal-dev/Leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0088-merge-sorted-array](https://github.com/rajesh-kayal-dev/Leetcode/tree/master/0088-merge-sorted-array) |
+| [0283-move-zeroes](https://github.com/rajesh-kayal-dev/Leetcode/tree/master/0283-move-zeroes) |
 | [0961-long-pressed-name](https://github.com/rajesh-kayal-dev/Leetcode/tree/master/0961-long-pressed-name) |
 ## Sorting
 |  |
