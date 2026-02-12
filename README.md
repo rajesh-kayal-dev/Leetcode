@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/rajesh-kayal-dev/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/rajesh-kayal-dev/Leetcode/tree/master/0283-move-zeroes) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/rajesh-kayal-dev/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0414-third-maximum-number](https://github.com/rajesh-kayal-dev/Leetcode/tree/master/0414-third-maximum-number) |
 | [0695-max-area-of-island](https://github.com/rajesh-kayal-dev/Leetcode/tree/master/0695-max-area-of-island) |
 | [0747-min-cost-climbing-stairs](https://github.com/rajesh-kayal-dev/Leetcode/tree/master/0747-min-cost-climbing-stairs) |
 | [0948-sort-an-array](https://github.com/rajesh-kayal-dev/Leetcode/tree/master/0948-sort-an-array) |
@@ -155,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/rajesh-kayal-dev/Leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/rajesh-kayal-dev/Leetcode/tree/master/0242-valid-anagram) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/rajesh-kayal-dev/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0414-third-maximum-number](https://github.com/rajesh-kayal-dev/Leetcode/tree/master/0414-third-maximum-number) |
 | [0948-sort-an-array](https://github.com/rajesh-kayal-dev/Leetcode/tree/master/0948-sort-an-array) |
 ## Sliding Window
 |  |
