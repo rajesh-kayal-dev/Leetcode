@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/rajesh-kayal-dev/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/rajesh-kayal-dev/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0130-surrounded-regions](https://github.com/rajesh-kayal-dev/Leetcode/tree/master/0130-surrounded-regions) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/rajesh-kayal-dev/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/rajesh-kayal-dev/Leetcode/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/rajesh-kayal-dev/Leetcode/tree/master/0179-largest-number) |
 | [0189-rotate-array](https://github.com/rajesh-kayal-dev/Leetcode/tree/master/0189-rotate-array) |
@@ -145,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0019-remove-nth-node-from-end-of-list](https://github.com/rajesh-kayal-dev/Leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0088-merge-sorted-array](https://github.com/rajesh-kayal-dev/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/rajesh-kayal-dev/Leetcode/tree/master/0125-valid-palindrome) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/rajesh-kayal-dev/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/rajesh-kayal-dev/Leetcode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/rajesh-kayal-dev/Leetcode/tree/master/0283-move-zeroes) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/rajesh-kayal-dev/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -213,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/rajesh-kayal-dev/Leetcode/tree/master/0069-sqrtx) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/rajesh-kayal-dev/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/rajesh-kayal-dev/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Stack
 |  |
