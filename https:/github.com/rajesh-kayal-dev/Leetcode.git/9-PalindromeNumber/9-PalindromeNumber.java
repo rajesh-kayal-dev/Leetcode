@@ -1,0 +1,15 @@
+// Last updated: 6/15/2026, 10:03:38 AM
+class Solution {
+    public boolean isPalindrome(int x) {
+        if(x < 0 ) return false;
+        String str = x + "";
+        int left = 0;
+        int right = str.length() -1;
+        while(left < right){
+            if(str.charAt(left) != str.charAt(right)) return false;
+            left++;
+            right--;
+        }
+        return true;
+    }
+}
