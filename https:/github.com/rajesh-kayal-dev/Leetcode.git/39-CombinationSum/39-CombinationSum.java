@@ -1,0 +1,23 @@
+// Last updated: 6/15/2026, 10:03:05 AM
+class Solution {
+    public List<List<Integer>> combinationSum(int[] nums, int target) {
+        List<List<Integer>> result = new ArrayList<>();
+        backtrack(0,nums,target,new ArrayList<>(),result);
+        return result;
+    }
+
+    private void backtrack(int index,int[] nums, int target,List<Integer> current, List<List<Integer>> result){
+        if(target == 0){
+            result.add(new ArrayList<>(current));
+            return;
+        }
+        //check for index out of bound or target negtive ->not valid
+        if(index >= nums.length || target < 0) return;
+        current.add(nums[index]);
+        backtrack(index,nums,target - nums[index],current,result);
+        current.remove(current.size() - 1);
+        //skip the current move to next
+        backtrack(index + 1,nums,target,current,result);
+
+    }
+}
