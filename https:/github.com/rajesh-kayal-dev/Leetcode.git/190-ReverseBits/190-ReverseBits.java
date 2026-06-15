@@ -1,0 +1,13 @@
+// Last updated: 6/15/2026, 10:01:35 AM
+public class Solution {
+    // you need treat n as an unsigned value
+    public int reverseBits(int n) {
+        int ans =0;
+        for(int i =0;i < 32;i++){
+            int bit = n & 1;
+             ans = (ans << 1) | bit;
+            n >>>= 1;
+        }
+        return ans;
+    }
+}
