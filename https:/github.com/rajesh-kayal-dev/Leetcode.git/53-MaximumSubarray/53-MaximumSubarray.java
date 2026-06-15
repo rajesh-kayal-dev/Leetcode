@@ -1,0 +1,18 @@
+// Last updated: 6/15/2026, 10:02:55 AM
+class Solution {
+    public int maxSubArray(int[] nums) {
+        int currentSum = 0;
+        int maxSum = nums[0];
+
+        for(int num : nums){
+            currentSum +=num;
+
+            maxSum = Math.max(maxSum, currentSum);
+
+            if(currentSum < 0){
+                currentSum = 0;
+            }
+        }
+        return maxSum;
+    }
+}
