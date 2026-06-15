@@ -1,0 +1,35 @@
+// Last updated: 6/15/2026, 10:02:19 AM
+/**
+ * Definition for a binary tree node.
+ * public class TreeNode {
+ *     int val;
+ *     TreeNode left;
+ *     TreeNode right;
+ *     TreeNode() {}
+ *     TreeNode(int val) { this.val = val; }
+ *     TreeNode(int val, TreeNode left, TreeNode right) {
+ *         this.val = val;
+ *         this.left = left;
+ *         this.right = right;
+ *     }
+ * }
+ */
+class Solution {
+    public boolean isBalanced(TreeNode root) {
+        return dfsHeight(root) != -1;
+    }
+
+    private int dfsHeight(TreeNode node) {
+        if (node == null) return 0;
+
+        int left = dfsHeight(node.left);
+        if (left == -1) return -1;  // Left subtree unbalanced
+
+        int right = dfsHeight(node.right);
+        if (right == -1) return -1; // Right subtree unbalanced
+
+        if (Math.abs(left - right) > 1) return -1; // Current node unbalanced
+
+        return Math.max(left, right) + 1; // Return height
+    }
+}
